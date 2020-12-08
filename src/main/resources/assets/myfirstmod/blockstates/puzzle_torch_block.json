@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "myfirstmod:block/puzzle_torch_block"
+    }
+  }
+}

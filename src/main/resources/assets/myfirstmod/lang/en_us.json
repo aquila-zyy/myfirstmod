@@ -1,0 +1,13 @@
+{
+  "item.myfirstmod.acorn": "Acorn",
+  "item.myfirstmod.apple_sword": "Apple Sword",
+  "item.myfirstmod.frost_core": "Frost Core",
+
+  "block.myfirstmod.frost_core_block": "Frost Core Block",
+  "block.myfirstmod.frost_holocron_block": "Frost Holocron",
+  "block.myfirstmod.puzzle_torch_block": "Puzzle Torch",
+  "block.myfirstmod.glass_bottle_block": "Glass Jar",
+
+  "itemGroup.my_item_group": "Mod Items",
+  "itemGroup.my_block_group": "Mod Blocks"
+}

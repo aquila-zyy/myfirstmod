@@ -1,0 +1,13 @@
+{
+  "item.myfirstmod.acorn": "橡实",
+  "item.myfirstmod.apple_sword": "苹果剑",
+  "item.myfirstmod.frost_core": "冰霜核心",
+
+  "block.myfirstmod.frost_core_block": "冰霜核心块",
+  "block.myfirstmod.frost_holocron_block": "冰霜全息盒",
+  "block.myfirstmod.puzzle_torch_block": "谜题火把",
+  "block.myfirstmod.glass_bottle_block": "玻璃罐",
+
+  "itemGroup.my_item_group": "Mod物品",
+  "itemGroup.my_block_group": "Mod方块"
+}

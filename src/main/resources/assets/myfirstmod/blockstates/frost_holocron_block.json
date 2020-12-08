@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=false": {"model": "myfirstmod:block/frost_holocron_block"},
+    "lit=true": {"model": "myfirstmod:block/frost_holocron_block_lit"}
+  }
+}

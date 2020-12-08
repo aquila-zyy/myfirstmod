@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "myfirstmod:block/frost_core_block"
+    }
+  }
+}

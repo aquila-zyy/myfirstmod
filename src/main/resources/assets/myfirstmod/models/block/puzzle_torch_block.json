@@ -1,0 +1,54 @@
+{
+	"credit": "Made with Blockbench",
+	"display": {
+		"gui": {
+			"rotation": [ 30, 135, 0 ],
+			"translation": [ 0, 0, 0],
+			"scale":[ 0.625, 0.625, 0.625 ]
+		},
+		"head": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": [ 1, 1, 1 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [ 75, -135, 0 ],
+			"translation": [ 0, 2.5, 0],
+			"scale": [ 0.375, 0.375, 0.375 ]
+		}
+	},
+	"textures": {
+		"0": "myfirstmod:block/puzzle_torch_block",
+		"particle": "myfirstmod:block/puzzle_torch_block"
+	},
+	"elements": [
+		{
+			"name": "base",
+			"from": [7, 0, 7],
+			"to": [9, 8, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4, 8]},
+			"faces": {
+				"north": {"uv": [0, 2, 2, 10], "texture": "#0"},
+				"east": {"uv": [6, 2, 8, 10], "texture": "#0"},
+				"south": {"uv": [4, 2, 6, 10], "texture": "#0"},
+				"west": {"uv": [2, 2, 4, 10], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"down": {"uv": [0, 10, 2, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "top",
+			"from": [7, 12, 7],
+			"to": [9, 13, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 10.5, 8]},
+			"faces": {
+				"north": {"uv": [8, 2, 10, 3], "texture": "#0"},
+				"east": {"uv": [14, 0, 16, 1], "texture": "#0"},
+				"south": {"uv": [10, 0, 12, 1], "texture": "#0"},
+				"west": {"uv": [12, 0, 14, 1], "texture": "#0"},
+				"up": {"uv": [8, 0, 10, 2], "texture": "#0"},
+				"down": {"uv": [8, 3, 10, 5], "texture": "#0"}
+			}
+		}
+	]
+}

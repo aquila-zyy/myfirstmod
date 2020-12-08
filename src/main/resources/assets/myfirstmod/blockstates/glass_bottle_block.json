@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "capped=false": {"model": "myfirstmod:block/glass_bottle_block"},
+    "capped=true": {"model": "myfirstmod:block/glass_bottle_block_capped"}
+  }
+}
